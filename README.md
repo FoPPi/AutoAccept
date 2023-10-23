@@ -1,3 +1,7 @@
+<p align=center>
+  <img width=150 src=https://raw.githubusercontent.com/FoPPi/AutoAccept/main/icon.ico alt='logo' />
+</p>
+
 # AutoAccept
 
 AutoAccept is a program that automatically accepts game invitations in Counter-Strike 2 (CS2) and Dota 2, allowing you to join games quickly and conveniently.
