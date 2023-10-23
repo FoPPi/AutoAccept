@@ -48,7 +48,7 @@ To install AutoAccept on Linux and macOS, follow these steps:
 
 ## Usage
 
-After installation, AutoAccept will run in the background. It will automatically accept game invitations in Counter-Strike 2 (CS2) and Dota 2, allowing you to join games without manual intervention.
+After installation, AutoAccept will run. You need select mod and press "Start". It will automatically accept game invitations in Counter-Strike 2 (CS2) and Dota 2, allowing you to join games without manual intervention.
 
 ## Known Issues
 
