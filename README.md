@@ -20,7 +20,7 @@ To install AutoAccept on Windows, follow these steps:
 
 1. Download the AutoAccept program for Windows.
 
-   [Download AutoAccept for Windows](link-to-windows-binary)
+   [Download AutoAccept for Windows](https://github.com/FoPPi/AutoAccept/releases)
 
 2. Run the `run_windows.bat` script by double-clicking it. This script will check if you have the required dependencies and then run AutoAccept.
 
